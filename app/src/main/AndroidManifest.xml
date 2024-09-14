@@ -13,6 +13,12 @@
         android:theme="@style/Theme.RecycleView"
         tools:targetApi="31">
         <activity
+            android:name=".item_movie_card"
+            android:exported="false" />
+        <activity
+            android:name=".RecycleViewCardMovie"
+            android:exported="false" />
+        <activity
             android:name=".CustomImageRecycleView"
             android:exported="false" />
         <activity

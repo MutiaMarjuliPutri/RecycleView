@@ -7,9 +7,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    android:gravity="center"
+    android:gravity="center"  
     tools:context=".MainActivity">
-
 
 
     <Button
@@ -23,7 +22,7 @@
         android:id="@+id/btnReciclyBuah"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Recycle Buah"   a
+        android:text="Recycle Buah"
         android:layout_marginTop="16dp" />
 
     <Button
